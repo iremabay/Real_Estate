@@ -1,0 +1,42 @@
+.contact-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+  background-color: #DAEAF1; 
+}
+
+.contact-space {
+  text-align: center;
+  max-width: 600px; 
+  background: #FBF9F1;
+  padding: 40px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.contact-title {
+  font-size: 32px;
+  color: #333;
+}
+
+.profile-image {
+  display: block;
+  margin: 0 auto 20px;
+  width: 170px; 
+  height: auto;
+  border-radius: 50%; 
+}
+
+.contact-paragraph {
+  font-size: 18px;
+  color: #555;
+}
+
+.contact-paragraph a {
+  color: #DA7297; 
+}
+
+.contact-paragraph a:hover {
+  color: #001B79; 
+}

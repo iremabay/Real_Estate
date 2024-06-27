@@ -1,0 +1,32 @@
+/* src/Header.css */
+.app-header {
+    background: #001529;
+    padding: 0 24px;
+  }
+  
+  .header-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+  
+  .logo {
+    color: white;
+    font-size: 20px;
+    margin-right: 20px;
+  }
+  
+  .header-title {
+    color: white;
+    margin: 0;
+    text-align: center;
+    flex: 1;
+  }
+  
+  .menu {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: auto;
+  }
+  

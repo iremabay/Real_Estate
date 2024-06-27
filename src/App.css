@@ -1,0 +1,34 @@
+
+.appBg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh; 
+    background: url('./images/building-17214070_1280.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+
+.loginForm {
+    background-color: rgba(255, 255, 255, 0.33);
+    box-shadow: 0px 8px 32px 0 rgba(255, 255, 255, 0.33);
+    backdrop-filter: blur(3px);
+    padding: 0px 12px 12px 12px;
+    border-radius: 25px;
+}
+
+.welcomeTitle {
+    text-align: center;
+    width: 100%;
+}
+
+.submitButton {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.appLayout {
+    min-height: 100vh;
+    background: #f0f2f5; 
+}
